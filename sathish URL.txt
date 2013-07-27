@@ -1,0 +1,17 @@
+http://blog.spritecloud.com/2011/04/complete-setup-guide-for-ruby-cucumber-and-watir-or-selenium-on-windows/
+
+
+
+http://mirrors.ibiblio.org/maven2/info/cukes/
+
+Jar files:
+http://mvnrepository.com/artifact/info.cukes
+
+
+https://www.youtube.com/watch?v=EwaPCaw7spo
+
+
+
+
+setupdetails
+http://www.coveros.com/cucumber-jvm-setup/
